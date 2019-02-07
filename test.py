@@ -9,7 +9,10 @@ a = 1+1
 c = 2+2
 
 # jingyi
-print(a+e)
+aa = print(a+e)
 
 #jingyi update 3
-print(c+d)
+cc = print(c+d)
+
+# update 4
+print (aa+cc)
