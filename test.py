@@ -9,4 +9,7 @@ a = 1+1
 c = 2+2
 
 # jingyi
-print(a+b)
+print(a+e)
+
+# jingyi
+print (c+d)
