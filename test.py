@@ -9,4 +9,4 @@ a = 1+1
 c = 2+2
 
 # jingyi
-ef= 3
+print(a+b)
